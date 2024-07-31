@@ -33,13 +33,14 @@ cd Whatsapp-Extension
 ## Siga as instruções abaixo para instalar a extensão no seu navegador:
 
 - Google Chrome
-Abra o Google Chrome e vá para chrome://extensions/.
-Ative o "Modo de desenvolvedor" no canto superior direito.
-Clique em "Carregar sem compactação" e selecione a pasta Whatsapp-Extension.
+- **Abra o Google Chrome e vá para chrome://extensions/.
+- **Ative o "Modo de desenvolvedor" no canto superior direito.
+- **Clique em "Carregar sem compactação" e selecione a pasta Whatsapp-Extension.
 - Mozilla Firefox
-Abra o Mozilla Firefox e vá para about:debugging#/runtime/this-firefox.
-Clique em "Carregar Manifesto" e selecione o arquivo manifest.json na pasta Whatsapp-Extension.
-Uso
-Abra o WhatsApp Web no seu navegador.
-Encontre uma mensagem de áudio.
-Use os controles da extensão para ajustar a velocidade de reprodução do áudio.
+- **Abra o Mozilla Firefox e vá para about:debugging#/runtime/this-firefox.
+- **Clique em "Carregar Manifesto" e selecione o arquivo manifest.json na pasta Whatsapp-Extension.
+
+## Uso
+- **Abra o WhatsApp Web no seu navegador.
+- **Encontre uma mensagem de áudio.
+- **Use os controles da extensão para ajustar a velocidade de reprodução do áudio.
